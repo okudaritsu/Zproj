@@ -1,0 +1,2 @@
+; PROJECTNAME.inc
+bits 32
