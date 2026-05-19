@@ -1,0 +1,2 @@
+; PROJECTNAME.s
+bits 32
