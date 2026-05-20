@@ -1,3 +1,6 @@
 # Zproj
 A linux terminal program to create project that has the project file and a Makefile.
-You find error? You Fix it. I will be busy with other Projects
+
+***How to install it***
+Install Zproj over git or .Zip and go to the Directory. Then type "./setup" into your Terminal.
+Now you can it by typing "zproj [Projectname]" in your Terminal.
